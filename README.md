@@ -1,1 +1,1 @@
-# Hangman
+This is a text based/ turtle library based hangman game. The random and turtle libraries are used to choose a random word and to play the hangman game. Depending on the number of mistakes, the program draws a different body part using the turtle module and basically creates a graphic representation of the game of hangman.
